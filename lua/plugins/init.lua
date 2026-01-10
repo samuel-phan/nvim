@@ -25,4 +25,11 @@ return {
   -- 		},
   -- 	},
   -- },
+
+  {
+    "windwp/nvim-autopairs",
+    enabled = false, -- This prevents the plugin from loading entirely
+    event = "InsertEnter",
+    config = true
+  },
 }
