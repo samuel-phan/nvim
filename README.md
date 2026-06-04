@@ -1,5 +1,11 @@
 # nvim config
 
+## Prerequisites
+
+```shell
+sudo apt install gcc
+```
+
 ## Installation
 
 ```shell
